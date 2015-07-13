@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Jolly+Lodger);
+@import url(http://fonts.googleapis.com/css?family=Rambla);
+
+body {
+  background-color: #bcbaf2;
+}
+.option1 {
+  width: 300px;
+  height: 300px;
+}
+
+.option2 {
+  width: 300px;
+  height: 300px;
+}
+.header {
+  text-align: Center;
+  font-family: 'Jolly Lodger', cursive;
+}
+.authors {
+  text-align: Center;
+  font-family: 'Rambla', sans-serif;
+}
+.sidephoto {
+  width: 400px;
+  height: 300px;
+  
+}
+.paragraph {
+  text-align: right;
+  font-family: 'Rambla', sans-serif;
+}
+.caption1{
+  font-family: 'Rambla', sans-serif;
+  text-align: center
+}
+.caption2{
+  font-family: 'Rambla', sans-serif;
+  text-align: center
+}
+
+
+
+  
